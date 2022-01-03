@@ -752,6 +752,17 @@ body {
   width: 12px;
   position: relative;
 }
+
+
+.swiper-pagination-bullet {
+  height: 20px !important;
+  width: 20px !important;
+  margin: 0 6px !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #fff !important; 
+}
 /* 
 .swiper-pagination-bullet.swiper-pagination-bullet-active:after {
   border: solid 1px #fff;
