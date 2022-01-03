@@ -752,7 +752,7 @@ body {
   width: 12px;
   position: relative;
 }
-
+/* 
 .swiper-pagination-bullet.swiper-pagination-bullet-active:after {
   border: solid 1px #fff;
   border-radius: 50%;
@@ -765,7 +765,7 @@ body {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 20px;
-}
+} */
 
 .results-button {
   margin-top: 44px;
