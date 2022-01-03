@@ -587,6 +587,10 @@ body {
   color: #fff;
 }
 
+.swiper-container {
+  overflow: hidden;
+}
+
 .service-items {
   max-width: 960px;
   background: #fff;
